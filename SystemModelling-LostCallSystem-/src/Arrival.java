@@ -1,4 +1,5 @@
-public class Arrival {
+public class Arrival { 
+//initializing
     private int from;
     private int to;
     private int length;
